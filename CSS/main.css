@@ -1,8 +1,13 @@
+/* .page {
+  margin: 50% 50%;
+} */
 .head {
   background: #fc0;
   height: 100px;
   position: relative;
   width: 100px;
+  border-radius: 50px;
+  margin: 50% 50%;
 }
 .face {
   font-family: "courier new", serif;
